@@ -2,7 +2,7 @@ Summary:	Mouse enhancement utility
 Summary(pl):	Mouse enhancement utility
 Name:		xemacs-strokes-pkg
 %define 	srcname	strokes
-Version:	1.06
+Version:	1.07
 Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
