@@ -2,12 +2,12 @@ Summary:	Mouse enhancement utility
 Summary(pl):	Narzêdzie rozszerzaj±ce wykorzystanie myszy
 Name:		xemacs-strokes-pkg
 %define 	srcname	strokes
-Version:	1.08
-Release:	2
+Version:	1.10
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	c5ab0860ceb23b40798b11a1fa4c0240
+# Source0-md5:	946a6e0bb3e9384a94a79ecdffdd85d8
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
