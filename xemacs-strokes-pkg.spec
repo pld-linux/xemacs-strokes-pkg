@@ -3,7 +3,7 @@ Summary(pl):	Narzêdzie rozszerzaj±ce wykorzystanie myszy
 Name:		xemacs-strokes-pkg
 %define 	srcname	strokes
 Version:	1.10
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
