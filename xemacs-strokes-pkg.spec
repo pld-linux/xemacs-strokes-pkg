@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Mouse enhancement utility.
 
-%description -l pl 
+%description -l pl
 Narzêdzie rozszerzaj±ce wykorzystanie myszy.
 
 %prep
@@ -32,7 +32,7 @@ install -d $RPM_BUILD_ROOT%{_datadir}/xemacs-packages
 
 cp -a * $RPM_BUILD_ROOT%{_datadir}/xemacs-packages
 
-gzip -9nf lisp/strokes/ChangeLog 
+gzip -9nf lisp/strokes/ChangeLog
 
 %clean
 rm -fr $RPM_BUILD_ROOT
