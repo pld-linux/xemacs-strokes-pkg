@@ -1,5 +1,5 @@
 Summary:	Mouse enhancement utility
-Summary(pl):	Narzêdzie rozszerzaj±ce wykorzystanie myszy
+Summary(pl.UTF-8):   NarzÄ™dzie rozszerzajÄ…ce wykorzystanie myszy
 Name:		xemacs-strokes-pkg
 %define 	srcname	strokes
 Version:	1.10
@@ -21,8 +21,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Mouse enhancement utility.
 
-%description -l pl
-Narzêdzie rozszerzaj±ce wykorzystanie myszy.
+%description -l pl.UTF-8
+NarzÄ™dzie rozszerzajÄ…ce wykorzystanie myszy.
 
 %prep
 %setup -q -c
